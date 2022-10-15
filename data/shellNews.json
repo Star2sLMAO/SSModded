@@ -1,0 +1,23 @@
+[
+	{
+		"content": "Welcome to SS Modded! The FIRST EVER Shell Shockers Private Server!",
+		"imageExt": ".png",
+		"id": "news_ssmodded",
+		"active": true,
+		"elId": "42069"
+	},
+	{
+		"content": "In Game is Currently NOT WORKING. It MAY be Added in a FUTURE UPDATE!",
+		"imageExt": ".png",
+		"id": "news_ssmodded2",
+		"active": true,
+		"elId": "69420"
+	},
+	{
+		"content": "This Project IS NOT endorsed by or Connected to Blue Wizards Digital!",
+		"imageExt": ".png",
+		"id": "BWD",
+		"active": true,
+		"elId": "12345"
+	}
+]
